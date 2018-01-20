@@ -101,7 +101,7 @@ class CreateControllerCommand extends Command
     {
         foreach($this->stubsMiddleware['middlewares'] as $stub)
         {
-            File::put(base_path('app/Http/Middleware').str_replace('stub','php',$stub),File::get(__DIR__.'/../stubs/Middleware/'.$stub));            
+            File::put(base_path('app/Http/Middleware/').str_replace('stub','php',$stub),File::get(__DIR__.'/../stubs/Middleware/'.$stub));            
         }
     }
 
