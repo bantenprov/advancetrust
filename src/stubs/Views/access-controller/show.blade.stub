@@ -52,7 +52,8 @@
             </h3>
         </div>
         <div class="panel-body">
-            <p><b>Route Name</b> : {{ $route_display->name }}</p>
+            <p><b>Route Name</b> : {{ str_replace('-',' ',title_case(kebab_case($route_display->name)))  }}</p>
+            
             <p><b>Url</b> : {{ $route_display->url }}</p>
         </div>
     </div>
