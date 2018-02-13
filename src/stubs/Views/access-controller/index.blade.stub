@@ -87,7 +87,12 @@
 	                            @if(!empty($route['name']))
 					            	<tr>
 		                                <td>
-											<a href="{{ route('accessControlShow',$key) }}">{{ $route['name'] }}</a>
+											<a href="{{ route('accessControlShow',$key) }}">{{
+
+                                            str_replace('-',' ',title_case(kebab_case($route['name']))) 
+                                                 
+
+                                        }}</a>
 
 		                            	</td>
 		                                <td>{{ $route['url'] }}</td>
