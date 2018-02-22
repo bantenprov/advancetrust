@@ -1,0 +1,9 @@
+uuid: 450f8687-24b1-4e3f-ba2e-ce87c52d261e
+langcode: en
+status: true
+dependencies: {  }
+id: inspektur
+label: Inspektur
+weight: 29
+is_admin: null
+permissions: {  }

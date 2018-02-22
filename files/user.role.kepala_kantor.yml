@@ -1,0 +1,9 @@
+uuid: 75b96499-5180-4018-936e-b7e94b13453f
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_kantor
+label: 'Kepala Kantor'
+weight: 34
+is_admin: null
+permissions: {  }

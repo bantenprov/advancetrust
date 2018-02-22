@@ -1,0 +1,9 @@
+uuid: 94cd23d3-df56-43b8-9c36-8425429ac82e
+langcode: en
+status: true
+dependencies: {  }
+id: wakil_direktur
+label: 'Wakil Direktur'
+weight: 51
+is_admin: null
+permissions: {  }

@@ -1,0 +1,9 @@
+uuid: f4711a4c-840f-4836-a5a4-ad73a120600d
+langcode: en
+status: true
+dependencies: {  }
+id: sekretaris_jenderal
+label: 'Sekretaris Jenderal'
+weight: 8
+is_admin: null
+permissions: {  }

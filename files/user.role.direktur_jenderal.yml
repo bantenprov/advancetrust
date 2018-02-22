@@ -1,0 +1,9 @@
+uuid: 05e95e0a-641e-42df-b37d-f2e91adc2674
+langcode: en
+status: true
+dependencies: {  }
+id: direktur_jenderal
+label: 'Direktur Jenderal'
+weight: 7
+is_admin: null
+permissions: {  }

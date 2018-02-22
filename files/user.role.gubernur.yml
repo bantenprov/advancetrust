@@ -1,0 +1,9 @@
+uuid: fef67997-bc79-49f6-a822-468a24859746
+langcode: en
+status: true
+dependencies: {  }
+id: gubernur
+label: Gubernur
+weight: 10
+is_admin: null
+permissions: {  }

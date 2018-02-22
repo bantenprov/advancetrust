@@ -1,0 +1,9 @@
+uuid: 9170413e-f3e8-44f3-bf39-1368f9098a85
+langcode: en
+status: true
+dependencies: {  }
+id: inspektur_pembantu
+label: 'Inspektur Pembantu'
+weight: 44
+is_admin: null
+permissions: {  }

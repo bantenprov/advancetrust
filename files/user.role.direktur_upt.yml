@@ -1,0 +1,9 @@
+uuid: 11d44a3c-f8d5-4b7d-9c92-cf0b9f911186
+langcode: en
+status: true
+dependencies: {  }
+id: direktur_upt
+label: 'Direktur UPT'
+weight: 50
+is_admin: null
+permissions: {  }

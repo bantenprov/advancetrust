@@ -1,0 +1,9 @@
+uuid: f4020697-0a9a-4ca7-ae99-7e5f1300b834
+langcode: en
+status: true
+dependencies: {  }
+id: staf_ahli
+label: 'Staf Ahli'
+weight: 42
+is_admin: null
+permissions: {  }

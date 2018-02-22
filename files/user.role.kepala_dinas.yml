@@ -1,0 +1,9 @@
+uuid: cf7e561b-b970-4595-89d7-139030d56751
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_dinas
+label: 'Kepala Dinas'
+weight: 23
+is_admin: null
+permissions: {  }

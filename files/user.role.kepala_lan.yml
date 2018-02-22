@@ -1,0 +1,9 @@
+uuid: 5a8db7e5-37a3-49e5-9c66-fe70eaa8bdca
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_lan
+label: 'Kepala LAN'
+weight: 13
+is_admin: null
+permissions: {  }

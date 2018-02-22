@@ -1,0 +1,9 @@
+uuid: 296ec56f-40e7-4511-b528-9a5b5bf784d2
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_satuan
+label: 'Kepala Satuan'
+weight: 53
+is_admin: null
+permissions: {  }

@@ -1,0 +1,9 @@
+uuid: d1140432-a9dd-437a-8e84-cf58ef45c8a4
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_lipi
+label: 'Kepala LIPI'
+weight: 19
+is_admin: null
+permissions: {  }

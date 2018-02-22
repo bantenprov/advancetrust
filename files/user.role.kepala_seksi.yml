@@ -1,0 +1,9 @@
+uuid: 52a8df49-041c-4c8e-a287-460a65bfdf77
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_seksi
+label: 'Kepala Seksi'
+weight: 47
+is_admin: null
+permissions: {  }

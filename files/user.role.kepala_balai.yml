@@ -1,0 +1,9 @@
+uuid: 8a9117a0-4bad-46ff-9879-adbec601f831
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_balai
+label: 'Kepala Balai'
+weight: 26
+is_admin: null
+permissions: {  }

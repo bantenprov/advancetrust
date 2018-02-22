@@ -1,0 +1,9 @@
+uuid: 59569f1a-64bd-4618-9661-b85cf99c8b8a
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_sekolah
+label: 'Kepala Sekolah'
+weight: 38
+is_admin: null
+permissions: {  }

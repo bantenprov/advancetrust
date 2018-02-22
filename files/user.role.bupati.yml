@@ -1,0 +1,9 @@
+uuid: d1df8bd1-34c9-411b-b0f9-bd45af8e65e0
+langcode: en
+status: true
+dependencies: {  }
+id: bupati
+label: Bupati
+weight: 11
+is_admin: null
+permissions: {  }

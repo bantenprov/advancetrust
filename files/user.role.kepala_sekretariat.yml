@@ -1,0 +1,9 @@
+uuid: 338050bc-ca0a-4506-b5a6-bf73c4b3008c
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_sekretariat
+label: 'Kepala Sekretariat'
+weight: 31
+is_admin: null
+permissions: {  }

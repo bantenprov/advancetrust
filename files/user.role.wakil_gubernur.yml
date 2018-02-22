@@ -1,0 +1,9 @@
+uuid: f5d1c2c2-4ca7-4264-a8d9-36dae549d51c
+langcode: en
+status: true
+dependencies: {  }
+id: wakil_gubernur
+label: 'Wakil Gubernur'
+weight: 35
+is_admin: null
+permissions: {  }

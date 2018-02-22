@@ -1,0 +1,9 @@
+uuid: bc0ce213-d251-4742-8ea8-5c278477a681
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_sub_bidang
+label: 'Kepala Sub Bidang'
+weight: 56
+is_admin: null
+permissions: {  }

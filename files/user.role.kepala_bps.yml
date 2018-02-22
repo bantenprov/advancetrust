@@ -1,0 +1,9 @@
+uuid: dfc66fcc-b63f-47a7-9b19-ce78a922311d
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_bps
+label: 'Kepala BPS'
+weight: 18
+is_admin: null
+permissions: {  }

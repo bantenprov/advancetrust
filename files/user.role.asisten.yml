@@ -1,0 +1,9 @@
+uuid: 5dc2b1b9-bad5-4e8d-ac15-66b74b127904
+langcode: en
+status: true
+dependencies: {  }
+id: asisten
+label: Asisten
+weight: 39
+is_admin: null
+permissions: {  }

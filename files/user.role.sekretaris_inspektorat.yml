@@ -1,0 +1,9 @@
+uuid: d357d869-c540-4bf4-9192-0f831e16ea84
+langcode: en
+status: true
+dependencies: {  }
+id: sekretaris_inspektorat
+label: 'Sekretaris Inspektorat'
+weight: 43
+is_admin: null
+permissions: {  }

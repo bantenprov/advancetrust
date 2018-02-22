@@ -1,0 +1,9 @@
+uuid: ba9dcde6-0708-4306-a79b-9e28d59de541
+langcode: en
+status: true
+dependencies: {  }
+id: wakil_bupati
+label: 'Wakil Bupati'
+weight: 36
+is_admin: null
+permissions: {  }

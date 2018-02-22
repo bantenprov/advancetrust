@@ -1,0 +1,9 @@
+uuid: 25ff2caa-0724-403d-9f5e-dc1eb07abc67
+langcode: en
+status: true
+dependencies: {  }
+id: sekretaris_dprd
+label: 'Sekretaris DPRD'
+weight: 30
+is_admin: null
+permissions: {  }

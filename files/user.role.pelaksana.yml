@@ -1,0 +1,9 @@
+uuid: dcdbce94-3fbd-45df-845b-c9b3d86af26c
+langcode: en
+status: true
+dependencies: {  }
+id: pelaksana
+label: Pelaksana
+weight: 58
+is_admin: null
+permissions: {  }

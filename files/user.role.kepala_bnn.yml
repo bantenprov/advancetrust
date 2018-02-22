@@ -1,0 +1,9 @@
+uuid: 21c00009-ddb8-4a7c-a21c-138817381316
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_bnn
+label: 'Kepala BNN'
+weight: 17
+is_admin: null
+permissions: {  }

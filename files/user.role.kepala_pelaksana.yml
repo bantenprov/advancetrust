@@ -1,0 +1,9 @@
+uuid: 2ac51595-4547-41b1-aa77-85f8ec3e6297
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_pelaksana
+label: 'Kepala Pelaksana'
+weight: 57
+is_admin: null
+permissions: {  }

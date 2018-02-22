@@ -1,0 +1,9 @@
+uuid: c921feb6-171c-4ddc-95b2-14a201eadd3c
+langcode: en
+status: true
+dependencies: {  }
+id: inspektur_jenderal
+label: 'Inspektur Jenderal'
+weight: 9
+is_admin: null
+permissions: {  }

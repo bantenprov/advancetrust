@@ -1,0 +1,9 @@
+uuid: f2fab943-f0e8-4ea3-9ad9-92b45fd74345
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_bagian
+label: 'Kepala Bagian'
+weight: 40
+is_admin: null
+permissions: {  }

@@ -1,0 +1,9 @@
+uuid: d8389933-3552-43e6-91ef-bad7b73b534a
+langcode: en
+status: true
+dependencies: {  }
+id: sekretaris_daerah
+label: 'Sekretaris Daerah'
+weight: 32
+is_admin: null
+permissions: {  }

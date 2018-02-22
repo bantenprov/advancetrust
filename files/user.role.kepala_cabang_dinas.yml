@@ -1,0 +1,9 @@
+uuid: 66f71438-0a4d-4521-9f34-c5235f0c362e
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_cabang_dinas
+label: 'Kepala Cabang Dinas'
+weight: 24
+is_admin: null
+permissions: {  }

@@ -1,0 +1,9 @@
+uuid: 8cce8293-4bcd-433e-93c0-57108e9d5fb7
+langcode: en
+status: true
+dependencies: {  }
+id: wakil_walikota
+label: 'Wakil Walikota'
+weight: 37
+is_admin: null
+permissions: {  }

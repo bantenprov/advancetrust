@@ -1,0 +1,9 @@
+uuid: 14003205-d77d-47e0-b343-ec9da90fd238
+langcode: en
+status: true
+dependencies: {  }
+id: sekretaris_satuan
+label: 'Sekretaris Satuan'
+weight: 54
+is_admin: null
+permissions: {  }

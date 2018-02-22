@@ -1,0 +1,9 @@
+uuid: d80e4bc1-2407-47df-be82-852ee1320c7f
+langcode: en
+status: true
+dependencies: {  }
+id: sekretaris_dinas
+label: 'Sekretaris Dinas'
+weight: 45
+is_admin: null
+permissions: {  }

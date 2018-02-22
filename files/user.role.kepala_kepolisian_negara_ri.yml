@@ -1,0 +1,9 @@
+uuid: 470e0485-442b-4c79-b6c3-353508678f18
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_kepolisian_negara_ri
+label: 'Kepala Kepolisian Negara RI'
+weight: 5
+is_admin: null
+permissions: {  }

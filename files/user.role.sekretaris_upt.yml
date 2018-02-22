@@ -1,0 +1,9 @@
+uuid: 5617086b-1d52-405b-bde1-420f7c6187af
+langcode: en
+status: true
+dependencies: {  }
+id: sekretaris_upt
+label: 'Sekretaris UPT'
+weight: 52
+is_admin: null
+permissions: {  }

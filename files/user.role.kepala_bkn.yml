@@ -1,0 +1,9 @@
+uuid: 6884eed9-89ff-4ba1-9763-42c676e430bb
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_bkn
+label: 'Kepala BKN'
+weight: 14
+is_admin: null
+permissions: {  }

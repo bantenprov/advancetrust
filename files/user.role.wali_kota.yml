@@ -1,0 +1,9 @@
+uuid: 1bacb463-e902-418a-a897-5fe515b4e129
+langcode: en
+status: true
+dependencies: {  }
+id: wali_kota
+label: 'Wali Kota'
+weight: 12
+is_admin: null
+permissions: {  }

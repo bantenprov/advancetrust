@@ -1,0 +1,9 @@
+uuid: 43b5e916-9508-414e-ae14-2832db306f8c
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_sub_bagian
+label: 'Kepala Sub Bagian'
+weight: 41
+is_admin: null
+permissions: {  }

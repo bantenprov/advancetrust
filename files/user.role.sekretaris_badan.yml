@@ -1,0 +1,9 @@
+uuid: f7fa382b-d072-425d-91c6-376536756683
+langcode: en
+status: true
+dependencies: {  }
+id: sekretaris_badan
+label: 'Sekretaris Badan'
+weight: 55
+is_admin: null
+permissions: {  }

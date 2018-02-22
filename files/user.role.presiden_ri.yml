@@ -1,0 +1,9 @@
+uuid: af9dbf86-7228-41fa-a697-08de30569687
+langcode: en
+status: true
+dependencies: {  }
+id: presiden_ri
+label: 'Presiden RI'
+weight: 3
+is_admin: null
+permissions: {  }

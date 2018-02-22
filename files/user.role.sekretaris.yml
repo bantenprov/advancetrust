@@ -1,0 +1,9 @@
+uuid: 161e976b-e330-461f-bca4-e8a5e4fbea6f
+langcode: en
+status: true
+dependencies: {  }
+id: sekretaris
+label: Sekretaris
+weight: 33
+is_admin: null
+permissions: {  }

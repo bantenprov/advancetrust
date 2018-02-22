@@ -1,0 +1,9 @@
+uuid: 682e46d4-ff03-4a63-9de8-9512ea1e81ce
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_badan
+label: 'Kepala Badan'
+weight: 28
+is_admin: null
+permissions: {  }

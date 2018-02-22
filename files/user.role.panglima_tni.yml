@@ -1,0 +1,9 @@
+uuid: 421e1a37-7a6f-4ca4-b083-4db72b5de4fd
+langcode: en
+status: true
+dependencies: {  }
+id: panglima_tni
+label: 'Panglima TNI'
+weight: 4
+is_admin: null
+permissions: {  }

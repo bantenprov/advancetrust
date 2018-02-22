@@ -1,0 +1,9 @@
+uuid: cd3821a2-9084-4a90-b4a6-8f319b61a202
+langcode: en
+status: true
+dependencies: {  }
+id: kepala_cabang
+label: 'Kepala Cabang'
+weight: 49
+is_admin: null
+permissions: {  }
